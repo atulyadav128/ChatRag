@@ -1,0 +1,15 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore SQLite database
+rag_docs.db
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+venv/
+.env*/
