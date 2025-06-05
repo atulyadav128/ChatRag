@@ -1,0 +1,10 @@
+openai
+python-dotenv
+streamlit
+pymongo
+sentence-transformers
+sqlalchemy
+faiss-cpu
+pypdf
+# for PDFs, also: pip install pypdf
+
